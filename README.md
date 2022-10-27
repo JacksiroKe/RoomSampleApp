@@ -11,9 +11,12 @@ You need to be familiar with Java, object-oriented design concepts, and Android 
 - It helps to be familiar with software architectural patterns that separate data from the user interface, such as MVP or MVC. This codelab implements the architecture defined in the Guide to App Architecture.
 
 ## App Overview
-![Main Activity](screenshots/Screenshot_1.png)
-![New Word Activity](screenshots/Screenshot_2.png)
-
+<table>
+    <tr>
+        <td><img src="screenshots/Screenshot_1.png" width="300px" /></td>
+        <td><img src="screenshots/Screenshot_2.png" width="300px" /></td>
+    </tr>
+</table>
 
 ## What are the recommended Architecture Components?
 - **[Entity](https://developer.android.com/reference/androidx/room/Entity)**: Annotated class that describes a database table when working with Room.
